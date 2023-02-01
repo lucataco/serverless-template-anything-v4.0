@@ -3,7 +3,6 @@
     "category": "Computer Vision",
     "example_input": {
         "prompt": "scenery, village, outdoors, sky, clouds",
-        "negative": "blurry",
         "num_inference_steps": 50,
         "guidance_scale": 7
     },

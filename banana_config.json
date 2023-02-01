@@ -1,0 +1,14 @@
+{
+    "name": "Stable Diffusion 2.1",
+    "category": "Computer Vision",
+    "example_input": {
+        "prompt": "scenery, village, outdoors, sky, clouds",
+        "negative": "blurry",
+        "num_inference_steps": 50,
+        "guidance_scale": 7
+    },
+    "example_output": {
+        "base64_output": "<BASE64_IMAGE>"
+    },
+    "version": "1"
+}
